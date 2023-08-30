@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LemilCaa
-- 👀 I'm interested in nothing really interesting.
-- 🌱 I’m currently learning a but I have memory loss so I don't remember anything.
-- 💞️ I’m looking to collaborate on the NASA space program, but they don't need me there.
-- 📫 How to reach me : just don't reach me, I wouldn't answer anyway
+- 👋 Salut, je suis @LemilCa,
+- 👀 Je suis intéressé dans rien de bien intéressant.
+- 🌱 J'apprends actuellement beaucoup de choses mais j'ai des pertes de mémoire donc je me souviens de rien.
+- 💞️ Je cherche à collaborer avec la NASA sur leur programme spatial mais ils n'ont pas besoin de moi.
+- 📫 Comment me joindre : n'essayez pas, je ne répondrai pas dans tous les cas.
 
 <!---
 LemilCaa/LemilCaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
